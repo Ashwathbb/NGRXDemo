@@ -1,0 +1,44 @@
+{
+  "associate": [
+    {
+      "id": 0,
+      "name": "ashwtaha b byathanala",
+      "email": "ashwathabbyathanala143@gmail.com",
+      "phone": "07337851034",
+      "associategroup": "level1",
+      "address": "kanivemane, shikaripura, shivamogga\nkuvempu university shivamogga",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "rahfjg",
+      "email": "ashwathabbyathanala143@gmail.com",
+      "phone": "07337851034",
+      "associategroup": "level1",
+      "address": "kanivemane, shikaripura, shivamogga\nkuvempu university shivamogga",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "ashwatha b byathanala",
+      "email": "ashwathabbyathanala143@gmail.com",
+      "phone": "07337851034",
+      "associategroup": "level1",
+      "address": "kanivemane, shikaripura, shivamogga, kuvempu university shivamogga",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "vgdhf",
+      "email": "ashwathabbyathanala143@gmail.com",
+      "phone": "xv",
+      "associategroup": "level1",
+      "address": "Hosa road Bengaluru\nShivamogga",
+      "type": "CUSTOMER",
+      "status": true
+    }
+  ]
+}
